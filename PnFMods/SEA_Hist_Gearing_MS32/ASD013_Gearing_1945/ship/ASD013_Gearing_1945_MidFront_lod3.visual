@@ -1,1 +1,153 @@
-<ASD013_Gearing_1945_MidFront_lod3.visual><boundingBox><min>-0.485897 -0.353611 -0.430291</min><max>0.480587 1.072295 2.462049</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_crack_Bow</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_crack_Bow_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidFront_crack_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_crack_MidBack_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidFront_patch_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront</node><geometry><vertices>MidFront_lod3Shape.vertices</vertices><primitive>MidFront_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/8028c68ff2fedc7144689975d3969385.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_Bow</node><geometry><vertices>MidFront_crack_Bow_lodShape3.vertices</vertices><primitive>MidFront_crack_Bow_lodShape3.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/8028c68ff2fedc7144689975d3969385.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_Bow_in</node><geometry><vertices>MidFront_crack_Bow_in_lodShape3.vertices</vertices><primitive>MidFront_crack_Bow_in_lodShape3.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/d3ddcd5782dd5783f493498b5fe03a2b.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_MidBack</node><geometry><vertices>MidFront_crack_MidBack_lodShape3.vertices</vertices><primitive>MidFront_crack_MidBack_lodShape3.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/8028c68ff2fedc7144689975d3969385.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_MidBack_in</node><geometry><vertices>MidFront_crack_MidBack_in_lodShape3.vertices</vertices><primitive>MidFront_crack_MidBack_in_lodShape3.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/d3ddcd5782dd5783f493498b5fe03a2b.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_patch_MidBack</node><geometry><vertices>MidFront_patch_MidBack_lod3Shape.vertices</vertices><primitive>MidFront_patch_MidBack_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/8028c68ff2fedc7144689975d3969385.mfm</mfm></material></primitiveGroup></geometry></renderSet></ASD013_Gearing_1945_MidFront_lod3.visual>
+<ASD013_Gearing_1945_MidFront_lod3.visual>
+	<boundingBox>
+		<min>	-0.485897 -0.353611 -0.430291	</min>
+		<max>	0.480587 1.072295 2.462049	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidFront_crack_Bow	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_Bow_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_MidBack_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront	</node>
+		<geometry>
+			<vertices>	MidFront_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD020_Gearing_1945.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_lodShape3.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_lodShape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD020_Gearing_1945.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_in_lodShape3.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_in_lodShape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/C003_Razlom_old.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_lodShape3.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_lodShape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD020_Gearing_1945.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_in_lodShape3.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_in_lodShape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/C003_Razlom_old.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBack_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBack_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD020_Gearing_1945.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</ASD013_Gearing_1945_MidFront_lod3.visual>

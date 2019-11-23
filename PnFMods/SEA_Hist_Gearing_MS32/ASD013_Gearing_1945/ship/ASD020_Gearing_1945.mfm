@@ -1,0 +1,17 @@
+<ASD020_Gearing_1945.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD020_Gearing_1945_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD020_Gearing_1945_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD020_Gearing_1945_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD020_Gearing_1945_ao.dds	</Texture>
+	</property>
+</ASD020_Gearing_1945.mfm>

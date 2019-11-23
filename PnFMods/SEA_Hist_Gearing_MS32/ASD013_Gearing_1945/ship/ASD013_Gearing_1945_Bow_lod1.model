@@ -1,1 +1,8 @@
-<ASD013_Gearing_1945_Bow_lod1.model><parent>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD013_Gearing_1945_Bow_lod2</parent><extent>15.0000</extent><castsShadow>true</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD013_Gearing_1945_Bow_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></ASD013_Gearing_1945_Bow_lod1.model>
+<ASD013_Gearing_1945_Bow_lod1.model>
+	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD013_Gearing_1945_Bow_lod2	</parent>
+	<extent>	15.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD013_Gearing_1945_Bow_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASD013_Gearing_1945_Bow_lod1.model>

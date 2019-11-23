@@ -1,1 +1,8 @@
-<ASD013_Gearing_1945_MidFront_ports.model><materialNames /><extent>200.000000</extent><castsShadow>true</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD013_Gearing_1945_MidFront_ports</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></ASD013_Gearing_1945_MidFront_ports.model>
+<ASD013_Gearing_1945_MidFront_ports.model>
+	<materialNames />
+	<extent>	200.000000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD013_Gearing_1945_MidFront_ports	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASD013_Gearing_1945_MidFront_ports.model>

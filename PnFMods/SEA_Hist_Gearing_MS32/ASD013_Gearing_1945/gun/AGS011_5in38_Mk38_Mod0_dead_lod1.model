@@ -1,1 +1,13 @@
-<AGS011_5in38_Mk38_Mod0_dead_lod1.model><extent>8.0000</extent><parent>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_dead_lod2</parent><castsShadow>true</castsShadow><materialNames /><visibilityBox><min>-0.178322 -0.005894 -0.233028</min><max>0.179203 0.242044 0.306758</max></visibilityBox><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_dead_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AGS011_5in38_Mk38_Mod0_dead_lod1.model>
+<AGS011_5in38_Mk38_Mod0_dead_lod1.model>
+	<extent>	8.0000	</extent>
+	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_dead_lod2	</parent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.178322 -0.005894 -0.233028	</min>
+		<max>	0.179203 0.242044 0.306758	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGS011_5in38_Mk38_Mod0_dead_lod1.model>

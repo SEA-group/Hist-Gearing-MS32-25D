@@ -1,1 +1,158 @@
-<AGS011_5in38_Mk38_Mod0_lod2.visual><boundingBox><min>-0.178322 -0.003686 -0.233028</min><max>0.178320 0.268427 0.305297</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Root</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Rotate_Y</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.033350 0.000000 1.000000</row3></transform><node><identifier>Rotate_X</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.113051 0.016972 1.000000</row3></transform><node><identifier>Roll_Back1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>-0.071433 0.000001 0.288325 1.000000</row3></transform><node><identifier>HP_gunFire1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Roll_Back1_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.071433 -0.146402 -0.305297 1.000000</row3></transform></node></node><node><identifier>Roll_Back2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.073111 0.000001 0.288325 1.000000</row3></transform><node><identifier>HP_gunFire2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Roll_Back2_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.073111 -0.146402 -0.305297 1.000000</row3></transform></node></node><node><identifier>HP_gunFireEffect</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000001 0.288325 1.000000</row3></transform></node><node><identifier>Rotate_X_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 -0.146401 -0.016972 1.000000</row3></transform></node></node><node><identifier>Rotate_Y_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 -0.033350 0.000000 1.000000</row3></transform></node></node><node><identifier>Root_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>turret</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>true</treatAsWorldSpaceObject><node>Root_BlendBone</node><node>Rotate_Y_BlendBone</node><node>Rotate_X_BlendBone</node><node>Roll_Back2_BlendBone</node><geometry><vertices>turret_lod2Shape.vertices</vertices><primitive>turret_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunX</identifier><mfm>PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/e53b3124dd37061b8a44327ef5a4b3dd.mfm</mfm></material></primitiveGroup></geometry></renderSet></AGS011_5in38_Mk38_Mod0_lod2.visual>
+<AGS011_5in38_Mk38_Mod0_lod2.visual>
+	<boundingBox>
+		<min>	-0.178322 -0.003686 -0.233028	</min>
+		<max>	0.178320 0.268427 0.305297	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Rotate_Y	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.033350 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Rotate_X	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.113051 0.016972 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Roll_Back1	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	-0.071433 0.000001 0.288325 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	HP_gunFire1	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+								<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	Roll_Back1_BlendBone	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+								<row3>	0.071433 -0.146402 -0.305297 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+					<node>
+						<identifier>	Roll_Back2	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.073111 0.000001 0.288325 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	HP_gunFire2	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+								<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	Roll_Back2_BlendBone	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+								<row3>	-0.073111 -0.146402 -0.305297 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+					<node>
+						<identifier>	HP_gunFireEffect	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.000000 0.000001 0.288325 1.000000	</row3>
+						</transform>
+					</node>
+					<node>
+						<identifier>	Rotate_X_BlendBone	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+							<row3>	0.000000 -0.146401 -0.016972 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	Rotate_Y_BlendBone	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	0.000000 -0.033350 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Root_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+		<node>
+			<identifier>	turret	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Root_BlendBone	</node>
+		<node>	Rotate_Y_BlendBone	</node>
+		<node>	Rotate_X_BlendBone	</node>
+		<node>	Roll_Back2_BlendBone	</node>
+		<geometry>
+			<vertices>	turret_lod2Shape.vertices	</vertices>
+			<primitive>	turret_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_skinned.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGS011_5in38_Mk38_Mod0_lod2.visual>
