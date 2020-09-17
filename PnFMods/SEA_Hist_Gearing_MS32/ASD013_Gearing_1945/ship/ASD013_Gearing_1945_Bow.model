@@ -1,5 +1,5 @@
 <ASD013_Gearing_1945_Bow.model>
-	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD013_Gearing_1945_Bow_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/lods/ASD013_Gearing_1945_Bow_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

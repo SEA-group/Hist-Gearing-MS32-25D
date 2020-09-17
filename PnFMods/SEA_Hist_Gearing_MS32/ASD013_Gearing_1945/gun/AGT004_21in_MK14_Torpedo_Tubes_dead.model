@@ -1,7 +1,7 @@
 <AGT004_21in_MK14_Torpedo_Tubes_dead.model>
 	<castsShadow>	true	</castsShadow>
 	<extent>	4.000000	</extent>
-	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGT004_21in_MK14_Torpedo_Tubes_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/lods/AGT004_21in_MK14_Torpedo_Tubes_dead_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.110618 -0.000000 -0.222525	</min>

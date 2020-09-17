@@ -1,6 +1,6 @@
 <AGT005_21in_MK15_Torpedo_Tubes_dead.model>
 	<extent>	4.000000	</extent>
-	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGT005_21in_MK15_Torpedo_Tubes_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/lods/AGT005_21in_MK15_Torpedo_Tubes_dead_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>

@@ -1,0 +1,13 @@
+<AGS011_5in38_Mk38_Mod0_lod2.model>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.178322 -0.003686 -0.233028	</min>
+		<max>	0.178320 0.268427 0.305297	</max>
+	</visibilityBox>
+	<extent>	30.0000	</extent>
+	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/lods/AGS011_5in38_Mk38_Mod0_lod3	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/lods/AGS011_5in38_Mk38_Mod0_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGS011_5in38_Mk38_Mod0_lod2.model>
