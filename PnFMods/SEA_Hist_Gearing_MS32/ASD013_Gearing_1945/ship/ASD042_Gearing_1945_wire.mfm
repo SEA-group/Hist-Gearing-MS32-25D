@@ -1,0 +1,13 @@
+<ASD042_Gearing_1945_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD042_Gearing_1945_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD042_Gearing_1945_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/ship/ASD042_Gearing_1945_n.dds	</Texture>
+	</property>
+</ASD042_Gearing_1945_wire.mfm>

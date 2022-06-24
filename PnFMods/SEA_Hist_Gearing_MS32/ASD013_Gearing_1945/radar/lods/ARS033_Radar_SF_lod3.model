@@ -1,0 +1,6 @@
+<ARS033_Radar_SF_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/radar/lods/ARS033_Radar_SF_lod3	</nodefullVisual>
+	<extent>	50.0000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ARS033_Radar_SF_lod3.model>

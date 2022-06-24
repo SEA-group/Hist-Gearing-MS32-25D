@@ -29,7 +29,7 @@
 			<primitive>	AGT004_21in_MK14_Torpedo_Tubes_dead_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDead	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGT004_21in_MK14_Torpedo_Tubes_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

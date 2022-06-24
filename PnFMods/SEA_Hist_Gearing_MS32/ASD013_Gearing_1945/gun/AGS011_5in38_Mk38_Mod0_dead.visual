@@ -29,7 +29,7 @@
 			<primitive>	turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDead	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGS011_5in38_Mk38_Mod0_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

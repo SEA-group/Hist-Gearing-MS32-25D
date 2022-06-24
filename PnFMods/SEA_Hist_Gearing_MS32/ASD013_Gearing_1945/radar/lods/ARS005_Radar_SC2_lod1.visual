@@ -74,7 +74,7 @@
 			<primitive>	RadarSC2_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Radar	</identifier>
+					<identifier>	SHIPMATX_PBS_Radar	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/radar/ARS006_Radar_SK_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

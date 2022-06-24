@@ -74,7 +74,7 @@
 			<primitive>	AGT005_21in_MK15_Torpedo_Tubes_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<identifier>	SHIPMATX_PBS_Gun	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGT004_21in_MK14_Torpedo_Tubes.mfm	</mfm>
 				</material>
 			</primitiveGroup>

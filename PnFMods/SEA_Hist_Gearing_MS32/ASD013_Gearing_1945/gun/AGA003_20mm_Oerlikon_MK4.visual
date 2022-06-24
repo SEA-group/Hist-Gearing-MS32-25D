@@ -38,7 +38,7 @@
 			<primitive>	OerlikonShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<identifier>	SHIPMATX_PBS_Gun	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGA003_20mm_Oerlikon_MK4.mfm	</mfm>
 				</material>
 			</primitiveGroup>
