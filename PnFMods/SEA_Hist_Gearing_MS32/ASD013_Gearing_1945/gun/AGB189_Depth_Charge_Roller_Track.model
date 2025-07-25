@@ -1,7 +1,6 @@
 <AGB189_Depth_Charge_Roller_Track.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/lods/AGB189_Depth_Charge_Roller_Track_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGB189_Depth_Charge_Roller_Track	</nodefullVisual>
+	<visual>	PnFMods/SEA_Hist_Gearing_MS32/ASD013_Gearing_1945/gun/AGB189_Depth_Charge_Roller_Track.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AGB189_Depth_Charge_Roller_Track.model>
